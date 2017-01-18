@@ -32,7 +32,7 @@ public class Border extends JFrame{
 		this.setSize(300, 200);
 		this.setLocation(200, 200);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		
+		//set visable
 		this.setVisible(true);
 	}
 }
