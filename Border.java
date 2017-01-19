@@ -1,5 +1,7 @@
 /**
  * 1. extends JFrame
+ * 2. define tools
+ * 3. initiate tools
  *
  */
 package com.gui;
